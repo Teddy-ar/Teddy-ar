@@ -21,4 +21,4 @@
 Estudo programação com objetivo de poder criar soluções que possam mudar a vida das pessoas de uma forma positiva. 
 
 ## Projetos recentes: 
-- [Página WEB desenvolvida no curso da DEVMEDIA](https://github.com/Teddy-ar/pagina-estatica)<br/>
+- [Página WEB estática](https://github.com/Teddy-ar/pagina-estatica)<br/>
