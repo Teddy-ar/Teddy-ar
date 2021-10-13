@@ -21,6 +21,7 @@
 Estudo programação com objetivo de poder criar soluções que possam mudar a vida das pessoas de uma forma positiva. 
 
 ## Projetos recentes: 
+- [Projeto em JavaScript](https://github.com/Teddy-ar/projeto-javascript)<br/>
 - [Página WEB com flexbox](https://github.com/Teddy-ar/pagina-flexbox)<br/>
 - [Página WEB estática com tabela e formulário](https://github.com/Teddy-ar/pagina-formulario-tabela)<br/>
 - [Página WEB estática com links](https://github.com/Teddy-ar/Pagina-Web-com-Links)<br/>
