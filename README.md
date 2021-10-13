@@ -5,7 +5,7 @@
 [![Facebook](	https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/teddy.andrade.3)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5561991366650)
 
-![Teddy GitHub stats](https://github-readme-stats.vercel.app/api?username=Teddy-ar&show_icons=true&theme=dark)
+![Teddy GitHub stats](https://github-readme-stats.vercel.app/api?username=Teddy-ar&show_icons=true&theme=dark) 
 
 ## Tecnologias que eu uso 
 
@@ -26,3 +26,5 @@ Estudo programação com objetivo de poder criar soluções que possam mudar a v
 - [Página WEB estática com tabela e formulário](https://github.com/Teddy-ar/pagina-formulario-tabela)<br/>
 - [Página WEB estática com links](https://github.com/Teddy-ar/Pagina-Web-com-Links)<br/>
 - [Página WEB estática](https://github.com/Teddy-ar/pagina-estatica)<br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Teddy-ar&layout=compact)](https://github.com/Teddy-ar/github-readme-stats)
