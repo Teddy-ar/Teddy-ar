@@ -21,4 +21,5 @@
 Estudo programação com objetivo de poder criar soluções que possam mudar a vida das pessoas de uma forma positiva. 
 
 ## Projetos recentes: 
+- [Página WEB estática com links](https://github.com/Teddy-ar/Pagina-Web-com-Links)<br/>
 - [Página WEB estática](https://github.com/Teddy-ar/pagina-estatica)<br/>
