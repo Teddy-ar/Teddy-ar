@@ -2,12 +2,12 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/teddy-rodrigues/)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5561991366650)
-
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/teddyar88?igsh=MWhsdjhxamtydjZnYw%3D%3D&utm_source=qr)
 
 
 ![Teddy GitHub stats](https://github-readme-stats.vercel.app/api?username=Teddy-ar&show_icons=true&theme=dark) 
 
-## Tecnologias que eu uso 
+## Tecnologias
 
 <div style="display: inline_block"><br/>
 <img align="center" alt="power bi" src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black">
